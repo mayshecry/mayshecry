@@ -1,6 +1,7 @@
 <h1 align="center">kuro</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=520&lines=Self-taught+Programmer;Ex-Blackhat+(2019–2024);Now+Grayhat;Privacy+Extremist;Anti-Mass-Surveillance;Arch+Linux+Daily+Driver" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=520&lines=Self-taught+Programmer;Cybersecurity+Researcher;Privacy-Focused+Developer;Security+Tooling+%26+Automation;Arch+Linux+Daily+Driver" />
 </p>
 
 <p align="center">
@@ -12,25 +13,27 @@
 </p>
 
 <p align="center">
-  Self-taught. Ran blackhat operations 2019–2024. Switched grayhat in 2025 — still break shit, but now I lean toward selective disclosure and building tools that actually help people stay hidden.<br><br>
-  <strong>I fucking hate mass surveillance.</strong> Governments, corps, ad-tech empires — they all want your every move logged forever. I build (and release) privacy-first tools, evasion techniques, and anti-forensic utilities to make their lives harder.<br><br>
-  Daily driver: Arch Linux — so almost everything I ship is Linux/Unix-native. Windows? Rarely.
+  Self-taught developer focused on cybersecurity research, privacy engineering, and low-level systems tooling.<br><br>
+
+  I build privacy-first utilities, security research tools, and defensive automation systems designed to better understand modern tracking, telemetry, and surveillance ecosystems.<br><br>
+
+  Daily driver: Arch Linux — most of my tooling is built for Unix-like environments with a focus on performance, transparency, and control.
 </p>
 
 ---
 
-<h3 align="center">Core Beliefs & Focus</h3>
+<h3 align="center">Core Focus Areas</h3>
 <p align="center">
-  Absolute digital privacy • End-to-end anonymity • Fighting mass data collection<br>
-  Ethical(ish) malware RE • Custom evasion & C2 • OSINT/CSINT automation<br>
-  Network/protocol abuse research • Grayhat tooling & PoCs worth sharing
+  Privacy engineering • Secure systems design • Network security research<br>
+  Adversary simulation (authorized environments) • OSINT tooling • Protocol analysis<br>
+  Defensive automation • Anti-tracking research • Systems-level tooling
 </p>
 
 ---
 
-<h3 align="center">Old Identity • Contact</h3>
+<h3 align="center">Background</h3>
 <p align="center">
-  Previous GitHub (lost forever): @devilscancry<br>
-  I drop raw, functional code when I think it helps people stay private or exposes surveillance bullshit.<br>
-  No polish. No enterprise. Just tools that work.
+  Independent developer publishing experimental and research-driven security tools.<br>
+  Focused on building practical, real-world utilities for privacy and system understanding.<br>
+  No enterprise polish — just functional research code.
 </p>
