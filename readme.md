@@ -1,39 +1,98 @@
+
 <h1 align="center">heavenzone</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=520&lines=Self-taught+Programmer;Cybersecurity+Researcher;Privacy-Focused+Developer;Security+Tooling+%26+Automation;Arch+Linux+Daily+Driver" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Privacy-Focused+Developer;Web+Exploitation+%26+OS+Research;Low-Level+Systems+Programming;Arch+Linux+Daily+Driver" />
 </p>
 
-<p align="center">
+---
+
+## About Me
+
+```bash
+> whoami
+
+Hi, I'm heavenzone — a young passionate guy about cybersecurity.
+
+I daily drive Arch Linux (i use arch btw) but i ain't no femboy tho.
+
+I have experience with:
+- Web exploitation
+- OS vulnerability research
+- Writing insanely complex scripts
+- Fixing spaghetti code
+- Privacy-focused tooling
+- Systems-level programming
+````
+
+---
+
+## Tech Stack
+
+<p align="left">
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
 
-<p align="center">
-  Self-taught developer focused on cybersecurity research, privacy engineering, and low-level systems tooling.<br><br>
+---
 
-  I build privacy-first utilities, security research tools, and defensive automation systems designed to better understand modern tracking, telemetry, and surveillance ecosystems.<br><br>
+## Focus Areas
 
-  Daily driver: Arch Linux — most of my tooling is built for Unix-like environments with a focus on performance, transparency, and control.
-</p>
+* Cybersecurity Research
+* Privacy Engineering
+* Secure Systems Design
+* OSINT & Recon Tooling
+* Network & Protocol Analysis
+* Defensive Automation
+* Unix / Linux Tooling
+* Reverse Engineering
+* Anti-Tracking Research
+* Low-Level Systems Development
 
 ---
 
-<h3 align="center">Core Focus Areas</h3>
-<p align="center">
-  Privacy engineering • Secure systems design • Network security research<br>
-  Adversary simulation (authorized environments) • OSINT tooling • Protocol analysis<br>
-  Defensive automation • Anti-tracking research • Systems-level tooling
-</p>
+## Philosophy
+
+```txt
+No enterprise polish.
+No bloated frameworks.
+No telemetry.
+No nonsense.
+
+Just functional code,
+research-driven tooling,
+and learning by building.
+```
 
 ---
 
-<h3 align="center">Background</h3>
+## Current Environment
+
+```yaml
+OS: Arch Linux
+Shell: zsh / bash
+Editor: Neovim
+Languages:
+  - Go
+  - C
+  - C++
+  - JavaScript
+
+Interests:
+  - Exploit research
+  - System internals
+  - Privacy tooling
+  - Automation
+  - Security engineering
+```
+
+---
+
 <p align="center">
-  Independent developer publishing experimental and research-driven security tools.<br>
-  Focused on building practical, real-world utilities for privacy and system understanding.<br>
-  No enterprise polish — just functional research code.
+  <i>"Build tools. Break things ethically. Understand systems."</i>
 </p>
+```
