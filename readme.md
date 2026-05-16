@@ -12,9 +12,9 @@
 ```bash
 > whoami
 
-Hi, I'm heavenzone — a young passionate guy about cybersecurity.
+Hi, Im heavenzone — a young passionate guy about cybersecurity.
 
-I daily drive Arch Linux (i use arch btw) but i ain't no femboy tho.
+I daily drive Arch Linux (i use arch btw) but i aint no femboy tho.
 
 I have experience with:
 - Web exploitation
