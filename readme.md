@@ -1,5 +1,5 @@
 
-<h1 align="center">heavenzone</h1>
+<h1 align="center">val</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Privacy-Focused+Developer;Web+Exploitation+%26+OS+Research;Low-Level+Systems+Programming;Arch+Linux+Daily+Driver" />
@@ -12,7 +12,7 @@
 ```bash
 > whoami
 
-Hi, Im heavenzone — a young passionate guy about cybersecurity.
+Hi, Im val — a young passionate guy about cybersecurity.
 
 I daily drive Arch Linux (i use arch btw) but i aint no femboy tho.
 
