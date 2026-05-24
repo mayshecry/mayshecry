@@ -1,20 +1,22 @@
 
 <h1 align="center">val</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Privacy-Focused+Developer;Web+Exploitation+%26+OS+Research;Low-Level+Systems+Programming;Arch+Linux+Daily+Driver" />
 </p>
 
 ---
-
 ## About Me
-
 ```bash
 > whoami
-
 Hi, Im val — a young passionate guy about cybersecurity.
-
 I daily drive Arch Linux (i use arch btw) but i aint no femboy tho.
+```
+
+I’m a huge **Devil May Cry** fan — games, anime, the whole franchise. Style, swagger, and demon hunting never get old.
+
+When I’m not deep in code or research, you’ll probably find me in VR, sweating in some intense session.
+
+I let AI write my READMEs, **not my code** — we don’t move like that.
 
 I have experience with:
 - Web exploitation
@@ -23,12 +25,9 @@ I have experience with:
 - Fixing spaghetti code
 - Privacy-focused tooling
 - Systems-level programming
-````
 
 ---
-
 ## Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F7FF"/>
@@ -37,14 +36,12 @@ I have experience with:
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
-
 ---
-
 ## Focus Areas
-
 * Cybersecurity Research
 * Privacy Engineering
 * Secure Systems Design
+* **Platform & Network Tooling**
 * OSINT & Recon Tooling
 * Network & Protocol Analysis
 * Defensive Automation
@@ -54,24 +51,19 @@ I have experience with:
 * Low-Level Systems Development
 
 ---
-
 ## Philosophy
-
 ```txt
 No enterprise polish.
 No bloated frameworks.
 No telemetry.
 No nonsense.
-
 Just functional code,
 research-driven tooling,
 and learning by building.
 ```
 
 ---
-
 ## Current Environment
-
 ```yaml
 OS: Arch Linux
 Shell: zsh / bash
@@ -81,18 +73,17 @@ Languages:
   - C
   - C++
   - JavaScript
-
 Interests:
   - Exploit research
   - System internals
   - Privacy tooling
   - Automation
   - Security engineering
+  - Devil May Cry lore
+  - VR gaming
 ```
-
 ---
-
 <p align="center">
-  <i>"Build tools. Break things ethically. Understand systems."</i>
+  <i>"Build tools. Break things ethically. Understand systems. Stay stylish."</i>
 </p>
 ```
