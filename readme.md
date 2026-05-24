@@ -5,28 +5,34 @@
 </p>
 
 ---
+
 ## About Me
+
 ```bash
 > whoami
-Hi, Im val — a young passionate guy about cybersecurity.
-I daily drive Arch Linux (i use arch btw) but i aint no femboy tho.
-
-I’m a huge Devil May Cry fan — games, anime, the whole franchise. Style, swagger, and demon hunting never get old.
-
-When I’m not deep in code or research, you’ll probably find me in VR, sweating in some intense session.
-
-I let AI write my READMEs, not my code — we don’t move like that.
-
-I have experience with:
-- Web exploitation
-- OS vulnerability research
-- Writing insanely complex scripts
-- Fixing spaghetti code
-- Privacy-focused tooling
-- Systems-level programming
+Hi, I'm val — a passionate cybersecurity researcher and privacy-focused developer.
 ```
+
+With a strong affinity for low-level systems and secure development, I spend most of my time exploring the boundaries of operating systems, networks, and web platforms. I daily drive Arch Linux (yes, I use Arch btw), though I maintain a strictly professional relationship with my terminal — no unnecessary customization drama.
+
+When not dissecting systems or hunting vulnerabilities, I’m a dedicated **Devil May Cry** enthusiast. From the original games to the anime adaptations, I greatly admire the franchise’s blend of stylish combat, deep lore, and relentless drive — qualities I try to channel into my own research and tooling.
+
+I also frequently immerse myself in **VR gaming**, which serves as both an engaging break from coding sessions and an excellent way to stay sharp with spatial awareness and quick decision-making.
+
+**Note:** I let AI assist with writing my READMEs. My actual code, however, remains strictly human-crafted — we don’t move like that around here.
+
+I have hands-on experience with:
+- Web exploitation and vulnerability research
+- Operating system internals and low-level analysis
+- Developing complex, performant scripts and tools
+- Refactoring and optimizing legacy/spaghetti code
+- Building privacy-oriented utilities
+- Systems-level programming in resource-constrained environments
+
 ---
+
 ## Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F7FF"/>
@@ -36,34 +42,40 @@ I have experience with:
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
 
-* Cybersecurity Research
-* Privacy Engineering
-* Secure Systems Design
+---
 
-  
-* **Platform & Network Tooling**
-* OSINT & Recon Tooling
-* Network & Protocol Analysis
-* Defensive Automation
-* Unix / Linux Tooling
-* Reverse Engineering
-* Anti-Tracking Research
-* Low-Level Systems Development
+## Focus Areas
+
+- Cybersecurity Research & Vulnerability Discovery
+- Privacy Engineering and Anti-Tracking Techniques
+- Secure Systems Design and Hardening
+- **Platform & Network Tooling Development**
+- OSINT & Advanced Reconnaissance
+- Network Protocol Analysis and Manipulation
+- Defensive Security Automation
+- Unix/Linux Tooling & Systems Programming
+- Reverse Engineering
+- Low-Level Systems Development
 
 ---
+
 ## Philosophy
+
 ```txt
 No enterprise polish.
 No bloated frameworks.
-No telemetry.
-No nonsense.
-Just functional code,
+No telemetry. No tracking.
+No unnecessary complexity.
+
+Just clean, functional code,
 research-driven tooling,
-and learning by building.
+and continuous learning through building.
 ```
 
 ---
+
 ## Current Environment
+
 ```yaml
 OS: Arch Linux
 Shell: zsh / bash
@@ -74,16 +86,21 @@ Languages:
   - C++
   - JavaScript
 Interests:
-  - Exploit research
-  - System internals
-  - Privacy tooling
-  - Automation
+  - Exploit development & research
+  - System internals & architecture
+  - Privacy-preserving technologies
+  - Automation and tooling
   - Security engineering
-  - Devil May Cry lore
-  - VR gaming
+  - Devil May Cry series
+  - Virtual Reality gaming
 ```
+
 ---
+
 <p align="center">
-  <i>"Build tools. Break things ethically. Understand systems. Stay stylish."</i>
+  <i>"Build robust tools. Break things ethically. Understand systems deeply. And occasionally, strike with style."</i>
 </p>
-```
+
+**Ready to use.** Just copy everything inside the code block above.  
+
+The tone stays mostly formal while incorporating light, professional-grade humor (especially around the Arch meme, AI README disclaimer, and the DMC reference). Let me know if you want any further adjustments!
