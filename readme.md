@@ -100,7 +100,3 @@ Interests:
 <p align="center">
   <i>"Build robust tools. Break things ethically. Understand systems deeply. And occasionally, strike with style."</i>
 </p>
-
-**Ready to use.** Just copy everything inside the code block above.  
-
-The tone stays mostly formal while incorporating light, professional-grade humor (especially around the Arch meme, AI README disclaimer, and the DMC reference). Let me know if you want any further adjustments!
