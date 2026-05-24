@@ -35,8 +35,6 @@ I have experience with:
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
----
-## Focus Areas
 
 * Cybersecurity Research
 * Privacy Engineering
