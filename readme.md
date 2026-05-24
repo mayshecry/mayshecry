@@ -11,11 +11,11 @@
 Hi, Im val — a young passionate guy about cybersecurity.
 I daily drive Arch Linux (i use arch btw) but i aint no femboy tho.
 
-I’m a huge **Devil May Cry** fan — games, anime, the whole franchise. Style, swagger, and demon hunting never get old.
+I’m a huge Devil May Cry fan — games, anime, the whole franchise. Style, swagger, and demon hunting never get old.
 
 When I’m not deep in code or research, you’ll probably find me in VR, sweating in some intense session.
 
-I let AI write my READMEs, **not my code** — we don’t move like that.
+I let AI write my READMEs, not my code — we don’t move like that.
 
 I have experience with:
 - Web exploitation
