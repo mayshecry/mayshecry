@@ -37,9 +37,12 @@ I have experience with:
 </p>
 ---
 ## Focus Areas
+
 * Cybersecurity Research
 * Privacy Engineering
 * Secure Systems Design
+
+  
 * **Platform & Network Tooling**
 * OSINT & Recon Tooling
 * Network & Protocol Analysis
