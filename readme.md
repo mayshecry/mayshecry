@@ -1,7 +1,7 @@
 
-<h1 align="center">val</h1>
+<h1 align="center">val / mayshecry</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Privacy+Obsessed;Low-Level+Enjoyer;Arch+Linux+Daily+Driver" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Extremely+Tired;Low-Level+Autist;Built+My+Own+Language;Privacy+Maxxer" />
 </p>
 
 ---
@@ -10,22 +10,25 @@
 
 ```bash
 > whoami
-val — cybersecurity researcher and privacy-focused developer.
+val —  a developer who started coding in C at a young age and never recovered.
 ```
 
-I break things responsibly, build clean tools, and live in the terminal. Daily driving Arch Linux, chasing bugs in browsers and kernels, and writing performant low-level code. 
+I build tools because existing ones piss me off.  
+Currently living in Go, writing packet autism, and maintaining a custom scripting language because I hate complicated shit.
 
-When offline: **Devil May Cry** fanatic and VR addict.
+**Current main project:** [ligmashark](https://github.com/mayshecry/ligmashark) — process-aware network monitor + SharkScript
 
-**Note:** AI helps with READMEs. Code is 100% human.
+When I'm not coding: Devil May Cry, VR, or staring at the wall at 4am.
+
+**Note:** AI helps with READMEs. The code is 100% human (and sometimes questionable).
 
 ---
 
 ## Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -33,24 +36,28 @@ When offline: **Devil May Cry** fanatic and VR addict.
 
 ---
 
-## Focus
-- Web & client-side exploitation
-- OS internals & systems programming
-- Privacy tooling & anti-tracking
-- High-performance low-level code
-- Reverse engineering
+## What I'm Into
+
+- Systems programming & OS internals
+- Network monitoring & packet autism
+- Building minimal tools that don't suck
+- Custom languages & VMs (yes I made my own)
+- Privacy & anti-telemetry
+- Hating bloat and comkids
 
 ---
 
 ## Philosophy
+
 ```txt
 Minimal. Clean. No telemetry.
-No bloat. No bullshit.
-Just good code.
+No bullshit. No J*bs.
+Just works™
 ```
 
 ---
 
 <p align="center">
-  <i>"Understand deeply. Build sharply. Strike with style."</i>
+  <i>"I'm very tired all the time."</i>
 </p>
+```
