@@ -1,63 +1,64 @@
+<div align="center">
 
-<h1 align="center">val / mayshecry</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Extremely+Tired;Low-Level+Autist;Built+My+Own+Language;Privacy+Maxxer" />
-</p>
+# mayshecry
 
----
+### Low-Level Developer
 
-## About Me
+Focused on systems programming, compilers, performance engineering, and concurrency.
 
-```bash
-> whoami
-val —  a developer who started coding in C at a young age and never recovered.
-```
+Creator of **SHS (SharkScript)** — a programming language written from scratch.
 
-I build tools because existing ones piss me off.  
-Currently living in Go, writing packet autism, and maintaining a custom scripting language because I hate complicated shit.
+Interested in low-level software, runtimes, operating systems, networking, and optimization.
 
-**Current main project:** [ligmashark](https://github.com/mayshecry/ligmashark) — process-aware network monitor + SharkScript
+<br>
 
-When I'm not coding: Devil May Cry, VR, or staring at the wall at 4am.
+<a href="https://t.me/compilez">
+  <img src="https://img.shields.io/badge/Telegram-@compilez-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
+</a>
 
-**Note:** AI helps with READMEs. The code is 100% human (and sometimes questionable).
+<br><br>
 
----
+<img src="https://img.shields.io/badge/C++-systems-black?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/C-low level-black?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/Rust-performance-black?style=for-the-badge&logo=rust">
+<img src="https://img.shields.io/badge/Go-backend-black?style=for-the-badge&logo=go">
+<img src="https://img.shields.io/badge/Python-tools-black?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/SHS-SharkScript-black?style=for-the-badge">
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## What I'm Into
+<div align="center">
 
-- Systems programming & OS internals
-- Network monitoring & packet autism
-- Building minimal tools that don't suck
-- Custom languages & VMs (yes I made my own)
-- Privacy & anti-telemetry
-- Hating bloat and comkids
+## 🦈 SharkScript (SHS)
 
----
+SHS is a programming language I built from scratch.
 
-## Philosophy
+It has its own parser, compiler, and runtime, and is mainly used as a playground for experimenting with language design and performance ideas.
 
-```txt
-Minimal. Clean. No telemetry.
-No bullshit. No J*bs.
-Just works™
-```
+In parallel empty-loop benchmarks, SHS reaches performance close to optimized low-level implementations, depending on workload and configuration.
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"I'm very tired all the time."</i>
-</p>
-```
+<div align="center">
+
+## Areas
+
+|          Systems          |         Compilers         |        Performance        |
+| :-----------------------: | :-----------------------: | :-----------------------: |
+| OS-level work, networking | language design, runtimes | optimization, concurrency |
+
+</div>
+
+---
+
+<div align="center">
+
+## Contact
+
+Telegram: **@compilez**
+
+</div>
