@@ -12,8 +12,8 @@ Interested in low-level software, runtimes, operating systems, networking, and o
 
 <br>
 
-<a href="https://t.me/compilez">
-  <img src="https://img.shields.io/badge/Telegram-@compilez-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
+<a href="https://t.me/skidlord">
+  <img src="https://img.shields.io/badge/Telegram-@skidlord-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
 </a>
 
 <br><br>
