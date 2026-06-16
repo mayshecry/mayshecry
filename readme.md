@@ -2,63 +2,25 @@
 
 # mayshecry
 
-### Low-Level Developer
+### Low-Level Systems Developer
+<br></br>
+<img src="https://img.shields.io/badge/C++-systems-black?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/C-low_level-black?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/Rust-performance-black?style=for-the-badge&logo=rust">
+<img src="https://img.shields.io/badge/Go-backend-black?style=for-the-badge&logo=go">
+<img src="https://img.shields.io/badge/Python-tooling-black?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/SHS-SharkScript-black?style=for-the-badge">
 
-Focused on systems programming, compilers, performance engineering, and concurrency.
+<br></br>
 
-Creator of **SHS (SharkScript)** — a programming language written from scratch.
+Focused on systems programming, compilers, performance engineering, and concurrent systems.
+
+Creator of **SHS (SharkScript)**  a programming language built from scratch.
 
 Interested in low-level software, runtimes, operating systems, networking, and optimization.
-
-<br>
-
+<br></br>
+<br></br>
 <a href="https://t.me/skidlord">
   <img src="https://img.shields.io/badge/Telegram-@skidlord-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C++-systems-black?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/C-low level-black?style=for-the-badge&logo=c">
-<img src="https://img.shields.io/badge/Rust-performance-black?style=for-the-badge&logo=rust">
-<img src="https://img.shields.io/badge/Go-backend-black?style=for-the-badge&logo=go">
-<img src="https://img.shields.io/badge/Python-tools-black?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/SHS-SharkScript-black?style=for-the-badge">
-
-</div>
-
----
-
-<div align="center">
-
-## 🦈 SharkScript (SHS)
-
-SHS is a programming language I built from scratch.
-
-It has its own parser, compiler, and runtime, and is mainly used as a playground for experimenting with language design and performance ideas.
-
-In parallel empty-loop benchmarks, SHS reaches performance close to optimized low-level implementations, depending on workload and configuration.
-
-</div>
-
----
-
-<div align="center">
-
-## Areas
-
-|          Systems          |         Compilers         |        Performance        |
-| :-----------------------: | :-----------------------: | :-----------------------: |
-| OS-level work, networking | language design, runtimes | optimization, concurrency |
-
-</div>
-
----
-
-<div align="center">
-
-## Contact
-
-Telegram: **@compilez**
-
 </div>
