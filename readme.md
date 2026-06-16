@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/C-low_level-black?style=for-the-badge&logo=c">
 <img src="https://img.shields.io/badge/Rust-performance-black?style=for-the-badge&logo=rust">
 <img src="https://img.shields.io/badge/Go-backend-black?style=for-the-badge&logo=go">
-<img src="https://img.shields.io/badge/Python-tooling-black?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/SHS-SharkScript-black?style=for-the-badge">
 
 <br></br>
