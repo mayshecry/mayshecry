@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a **100% self-taught low-level developer** who has been coding since **2015**.  
+I'm a **100% self-taught low-level developer** who has been coding since **2019**.  
 Everything I know was built from the ground up through curiosity, experimentation, and countless hours of learning — no shortcuts, no hand-holding.
 
 My journey started with **Java**, my first programming language, and evolved into a deep obsession with **systems programming, operating systems, compiler design, and performance engineering**.
