@@ -49,6 +49,16 @@ Why?
 
 At some point I apparently decided that benchmarking an empty loop at completely unreasonable speeds was a worthwhile use of my time.
 
+## My Completely Unnecessary Opinions
+
+I regularly shit on **vibecoding**.
+
+AI is a **tool**, not a programmer.
+
+I'm perfectly fine with using AI to help write code, explain something, find bugs, or speed up development. But if you can't understand the code you're shipping without asking an AI what it does, you're not really programming — you're just operating a very expensive autocomplete.
+
+**Use the tool. Don't become the tool.**
+
 ## Outside of Code
 
 I play a lot of **VR games**.
