@@ -61,12 +61,11 @@ I'm perfectly fine with using AI to help write code, explain something, find bug
 
 ## Outside of Code
 
-I play a lot of **VR games**.
+I play a lot of **VR games & Minecraft**.
 
 I also watch a lot of documentaries. Pretty much anything can get my attention if it looks interesting enough — technology, science, history, or some completely random topic I knew nothing about five minutes ago.
 
 Most of the time, I'm either doing absolutely nothing or messing around with something I find interesting. There's very little in between.
-
 <div align="center">
 
 <a href="https://t.me/cloudflarie">
