@@ -4,3 +4,5 @@ I'm a software developer with 7 years of C & Python experience and i do have a j
 Personally most known for creating https://github.com/mayshecry/shark-os
 
 funfact im still young
+
+also got a bio site - https://wintr.lol
