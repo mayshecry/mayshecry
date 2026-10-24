@@ -1,8 +1,9 @@
-# sup im wintr.
-I'm a software developer with 7 years of C & Python experience and i do have a job in the field (compiler engineer)
+# What-up, I'm wintr.
 
-Personally most known for creating https://github.com/mayshecry/shark-os
+I'm a software developer with 7 years of experience in C and Python, and I currently work as a compiler engineer.
 
-funfact im still young
+I'm best known for creating [Shark OS](https://github.com/mayshecry/shark-os).
 
-also got a bio site - https://wintr.lol
+Fun fact: I'm still young.
+
+I also have a personal website: [wintr.lol](https://wintr.lol)
