@@ -1,108 +1,119 @@
+
 # What-up, I'm wintr.
 
-I'm a software developer with **7 years of experience**. I currently work as a **Compiler Engineer**, which basically means I spend my days arguing with computers about how they should behave.
+I'm a software developer with **7 years of experience**, currently working as a **Compiler Engineer**.
+
+I spend most of my time building things, breaking things, figuring out how things work, and occasionally questioning my life choices.
 
 ## About Me
 
 - Creator of [Shark OS](https://github.com/mayshecry/shark-os) — yes, I made an operating system. No, I don't know why either.
-- Experienced in **systems programming, compiler engineering, and low-level development**.
-- Background in **reverse engineering, OSINT, and offensive security**.
-- Spent the first 3 years of my career as a **Red Teamer**. Let's just say some of those experiences were... questionable. I'll leave the details to your imagination.
-- Experience with **Cloudflare WAF**, custom security rules, and application-layer DDoS mitigation.
-- Started working in tech at a relatively young age. Apparently, that turned me into someone who knows an unreasonable amount about their field and is stubborn enough to argue about the remaining 1%.
-- Genuinely enjoy learning new things, exploring unfamiliar technologies, and figuring out how things work.
-- I'm stubborn as hell. If something doesn't work, I'll probably keep poking at it until it does.
-- I daily-drive two operating systems: **Linux** and **SharkOS Server**.
+- Background in **systems programming, compiler engineering, reverse engineering, OSINT, and offensive security**.
+- Spent my first 3 years as a **Red Teamer**. Let's just say some experiences were... questionable.
+- My custom **Cloudflare WAF rules have helped mitigate attacks exceeding 5M RPS**. I know quite a bit about L7 DDoS mitigation.
+- Started working in tech young, which made me knowledgeable, incredibly stubborn, and occasionally insufferable when discussing technical subjects.
+- I genuinely enjoy learning new things, despite having strong opinions about approximately everything.
+- I daily-drive **Linux** and **SharkOS Server**.
 - I genuinely despise Windows. We have an agreement: I leave it alone, and it leaves me alone.
-- I rarely ship Windows-specific software. If it requires Windows, I'll probably reconsider.
+- I know an insane amount of useless UNIX trivia. Mentally, I'm somewhere between a UNIX greybeard and a sleep-deprived teenager. My actual beard, unfortunately, looks more like pubic hair than a greybeard's beard.
+- I know a frankly unreasonable amount of history, especially **World War II**. Apparently, UNIX trivia and WW2 history are essential survival skills.
+- I come from a country famous for cheese, yet barely even like the stuff. Some would call that a national betrayal.
+- I'm stupidly good at speed-reading. Documentation and walls of text don't stand a chance.
+- Basically ADHD in quiet mode. My brain has 47 tabs open, three are playing music, and somehow none of them make a sound externally.
 
-## Languages
+## Languages & Engineering
 
-I know quite a few programming languages, but my main ones are:
+I know quite a few languages, but my main ones are:
 
 - **C** — My beloved. Nothing beats it.
-- **Python** — Scripting, tooling, automation, and getting things done.
-- **Go** — Reliable software and backend tooling.
+- **Python** — Scripting, automation, and tooling.
+- **Go** — Backend development and reliable software.
 - **C++** — When C needs a little more complexity.
 
-I've worked with plenty of other languages too, but these are the ones I primarily gravitate towards.
+And yes, I fucking despise Rust. I'd rather deal with pointers myself than have the compiler tell me how to live my life.
 
-And before anyone asks: **Yes, I fucking despise Rust.**
+I also generally prefer **AOT over JIT**. Why? I'm emotionally attached to C. Predictability and avoiding runtime compilation overhead are nice bonuses, though.
 
-I personally prefer C in pretty much every way. Rust has its fans, and that's fine, but I'd rather deal with pointers myself than have the compiler tell me how to live my life.
+### Performance & Code Quality
 
-## Performance & Code Quality
+I absolutely love speed. Everything I build should be performant, efficient, clean, and tidy.
 
-I absolutely love speed. If there's an opportunity to make something faster, leaner, or more efficient, I'll probably take it.
+- I enjoy squeezing every last bit of performance out of software.
+- Clean code isn't optional. Messy implementations genuinely bother me.
+- I prefer lean solutions over unnecessary abstractions and bloat.
+- Need your **C or Assembly code optimized**? I'm probably your guy. I genuinely enjoy torturing myself over a few extra CPU cycles.
 
-I care a lot about writing code that's not only fast but also clean, tidy, readable, and maintainable.
+If my code isn't clean, I'll probably spend hours fixing it. I'm my own worst code reviewer.
 
-- **Performance first:** I love squeezing every last bit of performance out of software.
-- **Clean code:** Messy implementations genuinely bother me.
-- **Efficiency:** I prefer lean solutions over unnecessary complexity and bloated abstractions.
-- **Optimization:** If something can be made faster without sacrificing correctness or maintainability, I'm interested.
+## Security
 
-I'm the kind of person who can spend hours cleaning up an implementation because one tiny part of it bothers me.
+- **Red Teaming:** 3 years of professional experience.
+- **Reverse Engineering:** Software analysis and understanding internals.
+- **OSINT:** Open-source intelligence gathering.
+- **Cloudflare WAF:** Custom rules and application security.
+- **L7 DDoS Mitigation:** Custom rules that have helped mitigate 5M+ RPS attacks.
+- **Penetration Testing:** Not a pentester by profession, but something I'm considering learning more seriously.
 
-If my code isn't clean, I'll be disappointed in myself for the rest of the day. I'm probably my own worst code reviewer.
+I also used to develop Minecraft cheats. It taught me quite a bit about reverse engineering and game internals. Unfortunately, that community is toxic as hell.
 
-## Security & DDoS Mitigation
+I absolutely despise skids: people who copy tools and code they don't understand, then pretend they're elite hackers. Using other people's work is fine. Pretending you understand it isn't.
 
-Security is a pretty big part of my background, particularly application-layer security.
+## Projects & Mainstream Trends
 
-- **Red Teaming:** 3 years of professional experience, including some rather questionable adventures.
-- **Reverse Engineering:** Analyzing software and understanding how things work under the hood.
-- **OSINT:** Open-source intelligence gathering and investigation.
-- **Cloudflare WAF:** Designing and maintaining custom WAF rules.
-- **L7 DDoS Mitigation:** Extensive experience countering application-layer denial-of-service attacks.
+I'm generally not interested in mainstream projects just because they're popular.
 
-One thing I'm particularly proud of is that my custom **Cloudflare WAF rules have helped mitigate attacks exceeding 5 million requests per second (5M+ RPS)**.
+Most AI-based projects don't impress me. Slapping an AI model onto something and calling it innovation isn't groundbreaking.
 
-I've spent a considerable amount of time understanding application-layer attack patterns, identifying malicious traffic, and building rules that distinguish legitimate users from abusive traffic without unnecessarily blocking everyone else.
+Why would you have an AI rewrite Minecraft in Rust? What's the actual point? What does it improve? Sometimes people seem to build things simply because they can, not because they should.
 
-Throwing more servers at a problem isn't always the answer.
+I'm not against experimentation. I just prefer projects that solve actual problems or demonstrate interesting engineering.
 
-## Technical Interests
+As for AI, the most useful thing it's done for me is write countless documents and summaries that save me time. I'll let it handle the paperwork; I'll handle the engineering.
 
-- **Systems:** Operating systems, kernel development, low-level programming.
-- **Compilers:** Compiler engineering and tooling.
-- **Security:** Red teaming, reverse engineering, OSINT, web application security.
-- **Infrastructure:** Cloudflare, WAF engineering, L7 DDoS mitigation.
+## Companies I Respect
 
-## AI? Not Really My Thing.
+There aren't many companies I genuinely respect, but **[Valve](https://www.valvesoftware.com/)** is definitely one of them.
 
-I'm not particularly interested in riding the whole AI hype train.
+I appreciate their contributions to Linux gaming, especially Proton, SteamOS, and the Steam Deck.
 
-So far, I haven't seen much that genuinely interests me or changes how I build software. The most useful thing AI has done for me is write countless documents, summaries, and other boring stuff that would otherwise waste my time.
+I'm also a huge fan of their games. I've played every Half-Life game, and I spend a ridiculous amount of time playing **Counter-Strike 1.6**.
 
-I'll happily let it handle the paperwork. I'll handle the actual engineering.
+There's just one problem with Valve: Half-Life 3.
 
-## A Few Things About Me
+At this point, Valve would rather die than release it. Honestly, they're starting to remind me of myself with Rust. Neither of us is willing to compromise.
 
-- I'm genuinely happy to answer questions, share knowledge, and help people who are interested in learning. Nobody starts out knowing everything.
-- **Beginners are absolutely welcome to ask me questions.** If you're starting out, need help understanding something, or want someone to review and correct your code, feel free to reach out. I'll gladly help you improve.
-- I don't care if your code is terrible. Everyone writes terrible code at some point. That's how you learn.
-- However, don't expect me to sugarcoat everything. I'll point out mistakes, explain what's wrong, and tell you when something is poorly implemented. I can be pretty blunt about it.
-- I'm not particularly social, and I'm definitely not the most approachable-sounding person. Don't take that personally.
-- I have very little patience for incompetence disguised as arrogance. Not knowing something is perfectly fine. Refusing to learn while acting like you know everything is another story.
+## A Few Personal Things
+
+- Beginners are welcome to ask me questions. I'll happily explain things, review your code, and help you improve.
+- I won't sugarcoat technical feedback. If your code is bad, I'll tell you it's bad. I'm not particularly social, so don't expect excessive friendliness.
+- I have little patience for incompetence disguised as arrogance.
 - If your entire personality revolves around saying "I'm a hacker", bragging about being harmful, and acting like some edgy internet criminal, you can fuck right off.
-- Being able to break things doesn't automatically make you intelligent, skilled, or interesting.
-- I'm stubborn as hell, have strong opinions, and will happily argue about technical subjects. At least I'll try to back up what I say.
+- I'm stubborn as hell and will probably spend three hours proving a technical point nobody asked me to prove.
 
-## A Little More
+I'm also not a native English speaker; I'm Western European. Weirdly enough, English basically spawned in my head. I was already comfortable with it before properly learning it in school.
 
-I enjoy building things from scratch, taking things apart to understand how they work, and occasionally breaking things in the name of research.
+I type stupidly fast, probably twice as fast as most people I know. Unfortunately, punctuation and proofreading didn't come along for the ride. I make a fuck ton of typos on Discord. My code is considerably cleaner than my messages. Usually.
 
-From reverse engineering software to writing my own operating system, I prefer understanding what's happening under the hood rather than blindly trusting that something works.
+## Privacy & Contact
 
-Despite having spent quite a few years in this field already, I'm still genuinely interested in learning new things. There's always something new to break, understand, reverse engineer, or build.
+I value my privacy heavily. I don't document my entire existence online, and I have no interest in becoming an internet personality.
 
-Starting young has its advantages, I guess. The downside is that I've become incredibly stubborn, have strong opinions about almost everything in my field, and will probably spend three hours proving a point that nobody asked me to prove.
+I have exactly five social accounts:
 
-**My philosophy:** If it can be built from scratch, I'll probably try. If it requires Windows or Rust, I'll probably reconsider.
+- **GitHub:** Obviously. The only place where I actually post things.
+- **Discord:** Pretty much the only place where you might actually reach me.
+- **Steam:** Mostly for gaming.
+- **TikTok:** Yes, I have one. No, don't expect content.
+- **Twitter/X:** I tweet approximately once every millennium. (Never.)
+
+I also have quite a bit of unpublished work. Not everything needs to be open-source, but I'm generally happy to explain my projects and discuss the technical details.
+
+For serious questions, technical discussions, or inquiries, email is welcome. I do reply, although it might take me a while. I'm not glued to my inbox.
+
+**Website:** [wintr.lol](https://wintr.lol)
+
+**GitHub:** [@mayshecry](https://github.com/mayshecry)
 
 ---
 
-Personal website: [wintr.lol](https://wintr.lol)
-
-GitHub: [@mayshecry](https://github.com/mayshecry)
+*If it can be built from scratch, I'll probably try. If it requires Windows or Rust, I'll probably reconsider.*
